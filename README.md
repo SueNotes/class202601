@@ -1,7 +1,7 @@
 # AI-Integrated Industrial Education: Vibe Coding Project Class
 
 ## 1. 개요 (Course Overview)
-- **과목명**: AI 기반 공업 교육 및 프로젝트 개발 (Vibe Coding w/ Antigravity)
+- **과목명**: AI 기반 교육 및 프로젝트 개발 (Vibe Coding w/ Antigravity)
 - **대상**: 교육대학원 컴퓨터응용교육특론 수강자
 - **기간**: 15주 (주 2시간)
 - **학습 목표**: 
