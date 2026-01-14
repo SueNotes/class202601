@@ -21,7 +21,7 @@
 
 | 주차 | 주제 | 세부 내용 | 실습/과제 |
 | :-- | :--- | :--- | :--- |
-| **1주** | 오리엔테이션 및 AI와 교육 | - 수업 소개 및 평가 기준 안내<br>- 제4차 산업혁명과 공업 교육의 변화<br>- 생성형 AI와 코딩의 미래 (Antigravity 소개) | - Notion 계정 생성 및 자기소개 페이지 만들기 |
+| **1주** | 오리엔테이션 및 AI와 교육 | - 수업 소개 및 평가 기준 안내<br>- 생성형 AI와 코딩의 미래 (Antigravity 소개) | - Notion 계정 생성 및 자기소개 페이지 만들기 |
 | **2주** | 스마트한 지식 관리: Notion | - Notion 기본 사용법 (Page, Block, Database)<br>- 프로젝트 관리를 위한 템플릿(Kanban, Calendar) 제작<br>- 교육 자료 아카이빙 전략 | - 나만의 학습 대시보드 구축하기 |
 | **3주** | 협업과 버전 관리: GitHub | - Git과 GitHub의 이해 (Repository, Commit, Push)<br>- Desktop GUI 도구 활용법<br>- 오픈 소스 생태계와 공업 교육 자료 탐색 | - GitHub 저장소 개설 및 Notion과 연동하기 |
 | **4주** | AI 코딩 에이전트 시작하기 | - Antigravity 설치 및 환경 설정 (VS Code 연동 등)<br>- 프롬프트 엔지니어링 기초: "어떻게 말해야 코드를 잘 짜줄까?"<br>- Hello World부터 간단한 스크립트 생성까지 | - Antigravity로 간단한 계산기 프로그램 만들기 |
